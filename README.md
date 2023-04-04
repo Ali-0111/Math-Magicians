@@ -29,7 +29,6 @@
 - Demonstrate an ability to submit a project for code review.
 
 
-**[LeaderBoard]** is a project that has been built in this repo.
 
 ## 🛠 Built With <a name="built-with"></a>
 
