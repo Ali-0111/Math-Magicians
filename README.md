@@ -1,70 +1,177 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
+# 📗 Table of Contents
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-## Available Scripts
+<!------------------------ PROJECT DESCRIPTION----------->
 
-In the project directory, you can run:
+# 📖 [Math-Magician] <a name="about-project"></a>
+> Objectives of this project are to learn how to:
+- Follow Git flow.
+- Open pull requests in GitHub.
+- Write descriptive, easy to understand commit messages.
+- Write short, detailed, easy to understand descriptions of pull requests.
+- Write a descriptive and easy to understand README in business English for every project submitted.
+- Demonstrate an ability to submit a project for code review.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**[LeaderBoard]** is a project that has been built in this repo.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠 Built With <a name="built-with"></a>
 
-### `npm test`
+### Tech Stack <a name="tech-stack"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+> HTML.
 
-### `npm run build`
+> CSS.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> JavaScript.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> Git.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> GitHub.
 
-### `npm run eject`
+> Webpack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<details>
+  <summary>HTML</summary>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/HTML"> HTML5 </a></li>
+  </ul>
+</details>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<details>
+  <summary>CSS</summary>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/CSS"> CSS </a></li>
+  </ul>
+</details>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<details>
+<summary>Git</summary>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Git"> Git </a></li>
+  </ul>
+</details>
 
-## Learn More
+<details>
+<summary> GitHub </summary>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/GitHub"> GitHub </a></li>
+  </ul>
+</details>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<details>
+<summary> JavaScript </summary>
+  <ul>
+    <li><a href="https://www.javascript.com/"> JavaScript </a></li>
+  </ul>
+</details>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+</details>
 
-### Code Splitting
+<!-- Features -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Key Features <a name="key-features"></a>
 
-### Analyzing the Bundle Size
+> We have made use of a couple of features mainly:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- **[REACT]**
+- **[LINTERS]**
+- **[JavaScript]**
+- **[ notably modules]**
+- **[ES6 features]**
 
-### Making a Progressive Web App
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<!-- GETTING STARTED -->
 
-### Advanced Configuration
+## 💻 Getting Started <a name="getting-started"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+> How to make use of this project.
 
-### Deployment
+To get a local copy up and running, follow these steps.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Prerequisites
 
-### `npm run build` fails to minify
+> In order to run this project you need:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Internet Browser the recommend one is <a href="https://www.google.com/chrome/">Google Chrome.</a>
+
+### Install
+
+Install <a href="https://www.google.com/chrome/">Google Chrome.</a>
+
+### Setup
+
+After Installing Google Chrome set it as default browser.
+
+### Usage
+<!----------------Please add the new link ------------------->
+To run the project, click [Soon](https://github.com/Ali-0111/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Qurban Ali Safari**
+
+- GitHub: [@safari](https://github.com/Ali-0111)
+- Twitter: [@safari](https://twitter.com/qurban_safari)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-safari-695214202/)
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> This are some of the features coming soon.
+
+- [ ] **[V.1]**
+- [ ] **[v.2]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> If you like this project join Microverse Org and learn how to build one from scratch.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+-Thank you to Microverse Inc.
+
+<!-- LICENSE -->
+## MIT License
+
+This project is [MIT](./License) licensed.
