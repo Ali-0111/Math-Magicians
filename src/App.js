@@ -1,10 +1,12 @@
+import React from 'react';
+import Frame from './components/Frame';
 import './styles/App.css';
 
 function App() {
   return (
-    <div>
-      <h2>Under Main...</h2>
-    </div>
+    <main>
+      <Frame />
+    </main>
   );
 }
 
