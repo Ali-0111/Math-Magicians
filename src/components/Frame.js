@@ -7,7 +7,7 @@ function Frame() {
   return (
     <div className="calc-frame">
       <div className="screen">
-        <h2 className="output">Result is here</h2>
+        <h2 className="output">0</h2>
       </div>
       <Keys />
     </div>
