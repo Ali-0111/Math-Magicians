@@ -173,4 +173,4 @@ Feel free to check the [issues page](../../issues/).
 <!-- LICENSE -->
 ## MIT License
 
-This project is [MIT](./License) licensed.
+This project is [MIT](./LICENSE) licensed.

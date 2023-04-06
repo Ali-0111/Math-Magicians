@@ -1,0 +1,23 @@
+.keys-container {
+  border: 0.1px solid grey;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.row-1 button,
+.row :nth-child(4) button {
+  background-color: #f5913e;
+}
+
+li {
+  margin: 1px;
+  flex-basis: 25%;
+  border: 0.01px solid grey;
+}
+
+.row-5 > :first-child {
+  flex-basis: 50%;
+}

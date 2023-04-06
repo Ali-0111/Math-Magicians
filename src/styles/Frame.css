@@ -1,0 +1,19 @@
+.calc-frame {
+  width: 60%;
+  padding: 1rem 2rem;
+  border: 1px solid gainsboro;
+  margin: 10rem auto;
+  margin-bottom: 2rem;
+}
+
+.screen {
+  height: 5rem;
+  background-color: #858694;
+  padding: 1rem;
+  border: 1px solid grey;
+}
+
+.output {
+  margin-top: 0.5rem;
+  text-align: end;
+}
