@@ -1,11 +1,11 @@
 import React from 'react';
-import Frame from './components/Frame';
+import Calculator from './components/Calculator';
 import './styles/App.css';
 
 function App() {
   return (
     <main>
-      <Frame />
+      <Calculator />
     </main>
   );
 }
