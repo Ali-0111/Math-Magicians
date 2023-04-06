@@ -1,5 +1,5 @@
 .keys-container {
-  border: 0 solid grey;
+  border: 0.1px solid grey;
 }
 
 .row {
@@ -13,8 +13,9 @@
 }
 
 li {
+  margin: 1px;
   flex-basis: 25%;
-  border: 1px solid grey;
+  border: 0.01px solid grey;
 }
 
 .row-5 > :first-child {
