@@ -12,6 +12,12 @@
   background-color: #f5913e;
 }
 
+.row-1 button:hover,
+.row :nth-child(4) button:hover {
+  background-color: #d17830;
+  color: white;
+}
+
 li {
   margin: 1px;
   flex-basis: 25%;

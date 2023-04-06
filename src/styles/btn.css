@@ -6,3 +6,7 @@ button {
   text-align: center;
   border: none;
 }
+
+button:hover {
+  background-color: #cac9c9;
+}
