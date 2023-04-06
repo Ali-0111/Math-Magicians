@@ -4,7 +4,7 @@
 > Math magicians is a SPA (Single Page Application). It will help you
 to solve some basic calculation on Math.
 
-![image](Calculator.PNG)
+![image](./Calculator.PNG)
 
 
 ## Built With
@@ -61,4 +61,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](LICENCE) licensed.
+This project is [MIT](./LICENSE) licensed.
