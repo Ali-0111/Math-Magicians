@@ -1,11 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-
 import '../styles/btn.css';
 
-function Button({ info, setScreenText }) {
+function Button({ info, object }) {
   const clickHandler = (input) => {
-    setScreenText(`${input}`);
+    object(input);
   };
 
   return (
@@ -45,8 +44,7 @@ function Button({ info, setScreenText }) {
 
 Button.propTypes = {
   info: PropTypes.arrayOf(PropTypes.string).isRequired,
-  setScreenText: PropTypes.func.isRequired,
-  // screenText: PropTypes.string.isRequired,
+  object: PropTypes.func.isRequired,
 };
 
 export default Button;
