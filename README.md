@@ -2,7 +2,7 @@
 
 # Math Magicians
 > Math magicians is a SPA (Single Page Application). It will help you
-to sovle some basic calculation on Math.
+to solve some basic calculation on Math.
 
 ![image](Calculator.PNG)
 
@@ -25,15 +25,19 @@ to sovle some basic calculation on Math.
 ```
 - Install npm packages
 ```
-- $ npm install
+$ npm install
 ```
 - Install dependencies
 ```
-- $ npm install big.js
+$ npm install big.js
 ```
-- $ npm install prop-types
+
 ```
+$ npm install prop-types
+```
+
 - Open on live server
+
 ```
 - $ npm run start
 ```
@@ -41,9 +45,9 @@ to sovle some basic calculation on Math.
 ## Author:
 
 👤 **Qurban Ali Safari**
-- [Github](https://github.com/Ali-0111)
-- [Twitter](https://twitter.com/qurban_safari)
-- [LinkedIn](https://www.linkedin.com/in/ali-safari-695214202/)
+- ![Github](https://github.com/Ali-0111)
+- ![Twitter](https://twitter.com/qurban_safari)
+- ![LinkedIn](https://www.linkedin.com/in/ali-safari-695214202/)
 
 ## 🤝 Contributing
 
