@@ -45,9 +45,9 @@ $ npm install prop-types
 ## Author:
 
 👤 **Qurban Ali Safari**
-- ![Github](https://github.com/Ali-0111)
-- ![Twitter](https://twitter.com/qurban_safari)
-- ![LinkedIn](https://www.linkedin.com/in/ali-safari-695214202/)
+- GitHub: [@Ali-0111](https://github.com/Ali-0111)
+- Twitter: [@qurban_safari](https://twitter.com/qurban_safari)
+- LinkedIn: [@ali](https://www.linkedin.com/in/ali-safari-695214202/)
 
 ## 🤝 Contributing
 
