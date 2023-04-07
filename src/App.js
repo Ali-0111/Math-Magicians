@@ -1,11 +1,20 @@
 import React from 'react';
 import Calculator from './components/Calculator';
+import Quote from './components/Quote';
 import './styles/App.css';
 
 function App() {
   return (
     <main>
-      <Calculator />
+
+      <section>
+        <Calculator />
+      </section>
+
+      <section>
+        <Quote />
+      </section>
+
     </main>
   );
 }

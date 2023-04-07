@@ -24,3 +24,16 @@ button {
 ul {
   list-style: none;
 }
+
+section {
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote-container {
+  margin: 2rem auto;
+  width: 60%;
+  padding: 1rem 2rem;
+  border: 1px solid gainsboro;
+}
