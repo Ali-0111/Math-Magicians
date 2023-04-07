@@ -30,3 +30,8 @@ section {
   justify-content: center;
   align-items: center;
 }
+
+.quote-container {
+  width: 50%;
+  margin: 2rem auto;
+}
