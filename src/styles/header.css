@@ -4,6 +4,7 @@
   justify-content: space-between;
   align-items: center;
   border-bottom: 2px solid gray;
+  padding: 1rem 0;
 }
 
 .title {
