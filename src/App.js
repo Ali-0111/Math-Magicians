@@ -1,21 +1,29 @@
 import React from 'react';
 import Calculator from './components/Calculator';
+import Header from './components/Header';
+import Footer from './components/Footer';
 import Quote from './components/Quote';
 import './styles/App.css';
 
 function App() {
   return (
-    <main>
+    <div className="board">
+      <Header />
 
-      <section>
-        <Calculator />
-      </section>
+      <main>
 
-      <section>
-        <Quote />
-      </section>
+        <section>
+          <Calculator />
+        </section>
 
-    </main>
+        <section>
+          <Quote />
+        </section>
+
+      </main>
+
+      <Footer />
+    </div>
   );
 }
 

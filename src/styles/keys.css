@@ -18,7 +18,7 @@
   color: white;
 }
 
-li {
+.row li {
   margin: 1px;
   flex-basis: 25%;
   border: 0.01px solid grey;

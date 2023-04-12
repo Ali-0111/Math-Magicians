@@ -1,0 +1,25 @@
+.main-head {
+  min-height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid gray;
+}
+
+.title {
+  flex: 1 1 70%;
+}
+
+.navs {
+  flex: 1 1 30%;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  cursor: pointer;
+}
+
+.navs a {
+  text-decoration: none;
+  font-size: 2rem;
+  padding: 1rem;
+}
