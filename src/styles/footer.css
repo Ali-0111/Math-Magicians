@@ -5,6 +5,7 @@ footer {
   justify-content: flex-start;
   align-items: center;
   padding: 1rem 1rem;
+  min-height: 10vh;
 }
 
 footer h2 {

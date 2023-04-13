@@ -39,5 +39,10 @@ section {
 }
 
 .board {
-  padding: 0.7rem 2rem;
+  padding: 0.7rem 0;
+  padding-bottom: 0;
+}
+
+main {
+  min-height: 80vh;
 }

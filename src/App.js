@@ -1,4 +1,7 @@
 import React from 'react';
+import {
+  Routes, Route,
+} from 'react-router-dom';
 import Calculator from './components/Calculator';
 import Header from './components/Header';
 import Footer from './components/Footer';
@@ -11,15 +14,10 @@ function App() {
       <Header />
 
       <main>
-
-        <section>
-          <Calculator />
-        </section>
-
-        <section>
-          <Quote />
-        </section>
-
+        <Routes>
+          <Route path="/" element={<Quote />}> </Route>
+          <Route path="/a" element={<Calculator />}> </Route>
+        </Routes>
       </main>
 
       <Footer />
