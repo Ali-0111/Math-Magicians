@@ -7,7 +7,7 @@
 
   <h3><b>Math Magician Project</b></h3>
 </div>
-![image](./Calculator.gif)
+<img src="./Calculator.gif" alt="Presentation" />
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
