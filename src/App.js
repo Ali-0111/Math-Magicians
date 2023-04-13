@@ -2,6 +2,7 @@ import React from 'react';
 import {
   Routes, Route,
 } from 'react-router-dom';
+import Home from './components/Home';
 import Calculator from './components/Calculator';
 import Header from './components/Header';
 import Footer from './components/Footer';
@@ -15,8 +16,9 @@ function App() {
 
       <main>
         <Routes>
-          <Route path="/" element={<Quote />}> </Route>
-          <Route path="/a" element={<Calculator />}> </Route>
+          <Route path="/" element={<Home />}> </Route>
+          <Route path="/quote" element={<Quote />}> </Route>
+          <Route path="/calc" element={<Calculator />}> </Route>
         </Routes>
       </main>
 

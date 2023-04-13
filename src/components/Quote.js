@@ -1,4 +1,3 @@
-/* eslint-env es6 */
 import React, { useState, useEffect } from 'react';
 import Fetch from './Fetch';
 

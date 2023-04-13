@@ -1,0 +1,11 @@
+article {
+  padding: 1rem 2rem;
+}
+
+article h2 {
+  font-size: 4rem;
+}
+
+article p {
+  font-size: 2rem;
+}
