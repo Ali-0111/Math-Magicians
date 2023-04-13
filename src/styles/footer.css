@@ -4,8 +4,9 @@ footer {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  padding: 1rem;
+  padding: 0 1rem;
   min-height: 10vh;
+  overflow: hidden;
 }
 
 footer h2 {
@@ -22,12 +23,12 @@ footer ul {
 .copy {
   font-size: 2rem;
   text-align: center;
-  padding: 1rem;
+  padding: 0 1rem;
 }
 
 .social-media img {
-  width: 3rem;
-  height: 3rem;
+  width: 2.5rem;
+  height: 2.5rem;
 }
 
 .social-media img:hover {

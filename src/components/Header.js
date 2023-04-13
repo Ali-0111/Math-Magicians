@@ -7,9 +7,9 @@ function Header() {
     <header className="main-head">
       <h1 className="title">Math Magicians</h1>
       <ul className="navs">
-        <li><Link to="/">Home</Link></li>
-        <li><Link to="/calc">Calculator</Link></li>
-        <li><Link to="/quote">Quote</Link></li>
+        <li><Link className="link" to="/">Home</Link></li>
+        <li><Link className="link" to="/calc">Calculator</Link></li>
+        <li><Link className="link" to="/quote">Quote</Link></li>
       </ul>
     </header>
   );

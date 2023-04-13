@@ -7,5 +7,6 @@ article h2 {
 }
 
 article p {
+  margin-top: 3rem;
   font-size: 2rem;
 }
