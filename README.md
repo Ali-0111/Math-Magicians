@@ -2,9 +2,9 @@
 
 # Math Magicians
 > Math magicians is a SPA (Single Page Application). It will help you
-to solve some basic calculation on Math.
+to solve some basic calculation on Math, find some interesting quotes and give you some information about itself.
 
-![image](./Calculator.PNG)
+![image](./Calculator.gif)
 
 
 ## Built With
