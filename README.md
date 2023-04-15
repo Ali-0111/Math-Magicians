@@ -163,13 +163,12 @@ You can deploy this project using:
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
-- Github: [@Frank](https://github.com/francksefu)
-- LinkedIN: [@ghreza-crypto](https://github.com/ghreza-crypto)
+- Github: [@ghreza-crypto](https://github.com/ghreza-crypto)
 
 👤 **Author2**
 
-- GitHub: [@Frank](https://www.linkedin.com/in/franck-sefu-884705254/)
-
+- LinkedIn: [@Frank](https://www.linkedin.com/in/franck-sefu-884705254/)
+- Github: [@Frank](https://github.com/francksefu)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
