@@ -7,7 +7,7 @@
 
   <h3><b>Math Magician Project</b></h3>
 </div>
-![image](./Calculator.gif)
+<img src="./Calculator.gif" alt="Presentation" />
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -36,7 +36,7 @@
 
 # 📖 [Math Magician] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+
 
 **[Math Magician]** is a SPA (Single Page Application). It will help you to solve some basic calculation on Math, find some interesting quotes and give you some information about itself.
 
@@ -79,7 +79,6 @@ users click on Quote section.
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **[Introduction]**
 - **[Calculation]**
