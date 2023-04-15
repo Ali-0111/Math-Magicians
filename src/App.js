@@ -1,21 +1,29 @@
 import React from 'react';
+import {
+  Routes, Route,
+} from 'react-router-dom';
+import Home from './components/Home';
 import Calculator from './components/Calculator';
+import Header from './components/Header';
+import Footer from './components/Footer';
 import Quote from './components/Quote';
 import './styles/App.css';
 
 function App() {
   return (
-    <main>
+    <div className="board">
+      <Header />
 
-      <section>
-        <Calculator />
-      </section>
+      <main>
+        <Routes>
+          <Route path="/" element={<Home />}> </Route>
+          <Route path="/quote" element={<Quote />}> </Route>
+          <Route path="/calc" element={<Calculator />}> </Route>
+        </Routes>
+      </main>
 
-      <section>
-        <Quote />
-      </section>
-
-    </main>
+      <Footer />
+    </div>
   );
 }
 

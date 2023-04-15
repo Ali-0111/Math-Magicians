@@ -1,5 +1,5 @@
-/* eslint-env es6 */
 import React, { useState, useEffect } from 'react';
+import '../styles/quote.css';
 import Fetch from './Fetch';
 
 function Quote() {
@@ -32,6 +32,8 @@ function Quote() {
           data.map((item) => (
             <h2 key={item.quote}>
               { item.quote }
+              _
+              {item.author}
             </h2>
           ))
         }

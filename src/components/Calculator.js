@@ -27,15 +27,20 @@ function Calculator() {
   }
 
   return (
-    <div className="calc-frame">
+    <section className="calc-wrapper">
+      <article className="calc-introdcution">
+        <h2>Let&apos;s do some basic calculation!</h2>
+      </article>
+      <article className="calc-frame">
 
-      <div className="screen">
-        <h2 className="output">{text}</h2>
-      </div>
+        <div className="screen">
+          <p className="output">{text}</p>
+        </div>
 
-      <Keys object={createObject} />
+        <Keys object={createObject} />
 
-    </div>
+      </article>
+    </section>
   );
 }
 
