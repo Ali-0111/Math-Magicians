@@ -90,7 +90,7 @@ users click on Quote section.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> link to deployed project.
 
 - [Click](https://deploy-preview-8--wondrous-tapioca-e22d72.netlify.app/)
 
@@ -160,7 +160,7 @@ You can deploy this project using:
 - GitHub: [@Ali-0111](https://github.com/Ali-0111)
 - Twitter: [@qurban_safari](https://twitter.com/qurban_safari)
 - LinkedIn: [@ali](https://www.linkedin.com/in/ali-safari-695214202/)
-> Mention all of the collaborators of this project.
+> Collaborators of this project.
 
 👤 **Author1**
 - Github: [@ghreza-crypto](https://github.com/ghreza-crypto)
