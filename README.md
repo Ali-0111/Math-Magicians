@@ -92,7 +92,7 @@ users click on Quote section.
 
 > Add a link to your deployed project.
 
-- [Comming soon...](https://google.com)
+- [Click](https://deploy-preview-8--wondrous-tapioca-e22d72.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
