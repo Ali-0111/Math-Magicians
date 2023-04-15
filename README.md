@@ -6,9 +6,8 @@
   <br/>
 
   <h3><b>Math Magician Project</b></h3>
-  ![image](./Calculator.gif)
 </div>
-
+![image](./Calculator.gif)
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
