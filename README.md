@@ -162,18 +162,14 @@ You can deploy this project using:
 - LinkedIn: [@ali](https://www.linkedin.com/in/ali-safari-695214202/)
 > Mention all of the collaborators of this project.
 
-<!-- 👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Author1**
+- Github: [@Frank](https://github.com/francksefu)
+- LinkedIN: [@ghreza-crypto](https://github.com/ghreza-crypto)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
- -->
+- GitHub: [@Frank](https://www.linkedin.com/in/franck-sefu-884705254/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
