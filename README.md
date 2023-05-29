@@ -1,100 +1,98 @@
 <a name="readme-top"></a>
+
+<div align="center">
+
+  [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/?grsf=04r25h)
+  <br/>
+
+  <h3><b>Math Magician Project</b></h3>
+</div>
+<img src="./Calculator.gif" alt="Presentation" />
+<!-- TABLE OF CONTENTS -->
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!------------------------ PROJECT DESCRIPTION----------->
+<!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math-Magician] <a name="about-project"></a>
-> Objectives of this project are to learn how to:
-- Follow Git flow.
-- Open pull requests in GitHub.
-- Write descriptive, easy to understand commit messages.
-- Write short, detailed, easy to understand descriptions of pull requests.
-- Write a descriptive and easy to understand README in business English for every project submitted.
-- Demonstrate an ability to submit a project for code review.
+# 📖 [Math Magician] <a name="about-project"></a>
 
 
+
+**[Math Magician]** is a SPA (Single Page Application). It will help you to solve some basic calculation on Math, find some interesting quotes and give you some information about itself.
 
 ## 🛠 Built With <a name="built-with"></a>
-
+- Javascript
+- React
+- JSX
+- CSS
 ### Tech Stack <a name="tech-stack"></a>
+- API
+- Microverse codes for backend of calculator
 
-> HTML.
+> This application will get data from API and will show it while
+users click on Quote section.
 
-> CSS.
-
-> JavaScript.
-
-> Git.
-
-> GitHub.
-
-> Webpack
-
+> Microverse codes will do all calculations for calculator
 
 <details>
-  <summary>HTML</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/HTML"> HTML5 </a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>CSS</summary>
+  <summary>Server</summary>
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/CSS"> CSS </a></li>
+    <li>NA</li>
   </ul>
 </details>
 
 <details>
-<summary>Git</summary>
+<summary>Database</summary>
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Git"> Git </a></li>
+    <li>NA</li>
   </ul>
-</details>
-
-<details>
-<summary> GitHub </summary>
-  <ul>
-    <li><a href="https://en.wikipedia.org/wiki/GitHub"> GitHub </a></li>
-  </ul>
-</details>
-
-<details>
-<summary> JavaScript </summary>
-  <ul>
-    <li><a href="https://www.javascript.com/"> JavaScript </a></li>
-  </ul>
-</details>
-
 </details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> We have made use of a couple of features mainly:
 
-- **[REACT]**
-- **[LINTERS]**
-- **[JavaScript]**
-- **[ notably modules]**
-- **[ES6 features]**
+- **[Introduction]**
+- **[Calculation]**
+- **[Presenting some quotes]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> link to deployed project.
+
+- [Click](https://deploy-preview-8--wondrous-tapioca-e22d72.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,9 +100,32 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> How to make use of this project.
+## Setup
+- Clone this project
+```
+- $ git clone https://github.com/Ali-0111/Math-Magicians.git
+- $ cd Math_Magicians
+```
+- Install npm packages
+```
+$ npm install
+```
+- Install dependencies
+```
+$ npm install big.js
+```
 
-To get a local copy up and running, follow these steps.
+```
+$ npm install prop-types
+```
+
+### Usage
+
+- Open on live server
+
+```
+- $ npm run start
+```
 
 ### Prerequisites
 
@@ -112,40 +133,55 @@ To get a local copy up and running, follow these steps.
 - [] npm install
 - [] npm run start
 
-Internet Browser the recommend one is <a href="https://www.google.com/chrome/">Google Chrome.</a>
 
-### Install
+- Browser
+- Visual Studio
+- Install dependencies
 
-Install <a href="https://www.google.com/chrome/">Google Chrome.</a>
 
-### Setup
+### Run tests
 
-After Installing Google Chrome set it as default browser.
+To run tests, run the following command:
 
-### Usage
-<!----------------Please add the new link ------------------->
-To run the project, click [Soon](https://github.com/Ali-0111/)
+```
+- $ npm run test
+```
+
+### Deployment
+
+You can deploy this project using:
+```
+- Netlify (Free service for deployment)
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
+## Author:
 
 👤 **Qurban Ali Safari**
+- GitHub: [@Ali-0111](https://github.com/Ali-0111)
+- Twitter: [@qurban_safari](https://twitter.com/qurban_safari)
+- LinkedIn: [@ali](https://www.linkedin.com/in/ali-safari-695214202/)
+> Collaborators of this project.
 
-- GitHub: [@safari](https://github.com/Ali-0111)
-- Twitter: [@safari](https://twitter.com/qurban_safari)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-safari-695214202/)
+👤 **Author1**
+- Github: [@ghreza-crypto](https://github.com/ghreza-crypto)
+
+👤 **Author2**
+
+- LinkedIn: [@Frank](https://www.linkedin.com/in/franck-sefu-884705254/)
+- Github: [@Frank](https://github.com/francksefu)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> This are some of the features coming soon.
 
-- [ ] **[V.1]**
-- [ ] **[v.2]**
+- [ ] **[Add more functionality for calculating]**
+- [ ] **[Add a good UI using Bootrstrap]**
+- [ ] **[Deploy the project]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,22 +193,28 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> If you like this project join Microverse Org and learn how to build one from scratch.
+Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
--Thank you to Microverse Inc.
+
+I would like to thank Microverse for helping to build this project.
+It is an educational project. 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
 
 <!-- LICENSE -->
-## MIT License
 
-This project is [MIT](./License) licensed.
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -23,5 +23,9 @@
   "ignorePatterns": [
     "dist/",
     "build/"
-  ]
+  ],
+  // I added this code for props
+  "settings": {
+    "import/core-modules": ["prop-types","big.js"]
+  }
 }

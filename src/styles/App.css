@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+p,
+button {
+  font-size: 1.5rem;
+}
+
+ul {
+  list-style: none;
+}
+
+section {
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+.board {
+  padding: 0.7rem 0;
+  padding-bottom: 0;
+}
+
+main {
+  min-height: 78.8vh;
+  padding: 0.3rem 2rem;
+}

@@ -1,0 +1,36 @@
+footer {
+  color: white;
+  background-color: #1a2236;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0 1rem;
+  min-height: 10vh;
+  overflow: hidden;
+}
+
+footer h2 {
+  flex: 1 1 50%;
+}
+
+footer ul {
+  flex: 1 1 50%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.copy {
+  font-size: 2rem;
+  text-align: center;
+  padding: 0 1rem;
+}
+
+.social-media img {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.social-media img:hover {
+  transform: scale(1.2);
+}
