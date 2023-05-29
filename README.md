@@ -129,7 +129,10 @@ $ npm install prop-types
 
 ### Prerequisites
 
-In order to run this project you need:
+> In order to run this project you need:
+- [] npm install
+- [] npm run start
+
 
 - Browser
 - Visual Studio
