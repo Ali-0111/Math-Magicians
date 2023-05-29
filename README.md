@@ -109,6 +109,8 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 > In order to run this project you need:
+- [] npm install
+- [] npm run start
 
 Internet Browser the recommend one is <a href="https://www.google.com/chrome/">Google Chrome.</a>
 
