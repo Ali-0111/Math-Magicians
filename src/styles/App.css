@@ -24,3 +24,8 @@ button {
 ul {
   list-style: none;
 }
+
+.calc-wrapper {
+  width: 60%;
+  margin: auto;
+}

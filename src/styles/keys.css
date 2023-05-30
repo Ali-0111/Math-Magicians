@@ -14,10 +14,10 @@
 
 li {
   margin: 1px;
-  flex-basis: 25%;
+  width: 25%;
   border: 0.01px solid grey;
 }
 
 .row-5 > :first-child {
-  flex-basis: 50%;
+  width: calc(50% + 2px);
 }
