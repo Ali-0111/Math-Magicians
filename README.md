@@ -20,18 +20,10 @@
 <!------------------------ PROJECT DESCRIPTION----------->
 
 # 📖 [Math-Magician] <a name="about-project"></a>
-> Objectives of this project are to learn how to:
-- Follow Git flow.
-- Open pull requests in GitHub.
-- Write descriptive, easy to understand commit messages.
-- Write short, detailed, easy to understand descriptions of pull requests.
-- Write a descriptive and easy to understand README in business English for every project submitted.
-- Demonstrate an ability to submit a project for code review.
-
-
-**[LeaderBoard]** is a project that has been built in this repo.
-
-## 🛠 Built With <a name="built-with"></a>
+> Objectives of this project are:
+- Providing (SPA) to work offline
+- Solve basic Mathematical calculations
+- Provide some quotes
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -143,8 +135,8 @@ To run the project, click [Soon](https://github.com/Ali-0111/)
 
 > This are some of the features coming soon.
 
-- [ ] **[V.1]**
-- [ ] **[v.2]**
+- [ ] **[API for quotes to be presented]**
+- [ ] **[Information Page with Calculator Page will be added]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
