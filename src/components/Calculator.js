@@ -1,6 +1,5 @@
 import React from 'react';
-import Keys from './Keys';
-
+import Keys from './Keys/Keys';
 import '../styles/Frame.css';
 
 function Calculator() {
