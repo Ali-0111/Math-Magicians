@@ -25,22 +25,18 @@ ul {
   list-style: none;
 }
 
-main {
-  display: flex;
-  justify-content: space-between;
-  padding: 5%;
-  height: 90vh;
-}
-
-.calc-wrapper {
-  width: 40%;
-  height: 100%;
-}
-
-.text-wrapper {
-  display: flex;
-  flex-direction: column;
+section {
+  display: block;
   justify-content: center;
-  width: 40%;
-  height: 100%;
+  align-items: center;
+}
+
+.board {
+  padding: 0.7rem 0;
+  padding-bottom: 0;
+}
+
+main {
+  min-height: 78.8vh;
+  padding: 0.3rem 2rem;
 }
