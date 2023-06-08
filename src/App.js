@@ -1,18 +1,18 @@
 import React from 'react';
-import Quote from './components/Quote';
-import Calculator from './components/Calculator';
+import Header from './components/Header/Header';
+import AppRoutes from './util/helper/Routing/Routing';
+import Footer from './components/Footer/Footer';
 import './styles/App.css';
 
 function App() {
   return (
-    <main>
-      <div className="calc-wrapper">
-        <Calculator />
-      </div>
-      <div className="text-wrapper">
-        <Quote />
-      </div>
-    </main>
+    <>
+      <Header />
+      <main>
+        <AppRoutes />
+      </main>
+      <Footer />
+    </>
   );
 }
 
