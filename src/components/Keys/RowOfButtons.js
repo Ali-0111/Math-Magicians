@@ -1,11 +1,12 @@
 import React from 'react';
-import '../../styles/btn.css';
 import PropTypes from 'prop-types';
+import './btn.css';
 
 function RowOfButtons({ info, updateState }) {
   function handleClick(btnText) {
     updateState(btnText);
   }
+
   return (
     <ul className={info[0]}>
       {

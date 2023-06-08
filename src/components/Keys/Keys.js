@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import RowOfButtons from './RowOfButtons';
-import '../../styles/keys.css';
+import './keys.css';
 
 function Keys({ updateState }) {
   const btnsInnerText = [
