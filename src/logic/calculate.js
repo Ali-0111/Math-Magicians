@@ -17,8 +17,8 @@ export default function calculate(obj, buttonName) {
   if (buttonName === 'AC') {
     return {
       total: null,
-      next: null,
       operation: null,
+      next: null,
     };
   }
 
@@ -69,8 +69,8 @@ export default function calculate(obj, buttonName) {
     if (obj.next && obj.operation) {
       return {
         total: operate(obj.total, obj.next, obj.operation),
-        next: null,
         operation: null,
+        next: null,
       };
     }
     // '=' with no operation, nothing to do
@@ -111,8 +111,8 @@ export default function calculate(obj, buttonName) {
 
     return {
       total: operate(obj.total, obj.next, obj.operation),
-      next: null,
       operation: buttonName,
+      next: null,
     };
   }
 
@@ -126,7 +126,7 @@ export default function calculate(obj, buttonName) {
   // save the operation and shift 'next' into 'total'
   return {
     total: obj.next,
-    next: null,
     operation: buttonName,
+    next: null,
   };
 }

@@ -9,8 +9,9 @@ footer {
   overflow: hidden;
 }
 
-footer h2 {
+footer p {
   flex: 1 1 50%;
+  font-size: 2.5rem;
 }
 
 footer ul {
