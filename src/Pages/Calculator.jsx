@@ -21,10 +21,12 @@ function Calculator() {
   const screenText = getNotNull(calcData);
 
   return (
-    <div className="calc-frame">
-      <ScreenText text={screenText} />
-      <Keys updateState={updateState} />
-    </div>
+    <section className="calculator">
+      <div className="calc-frame">
+        <ScreenText text={screenText} />
+        <Keys updateState={updateState} />
+      </div>
+    </section>
   );
 }
 

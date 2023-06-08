@@ -13,15 +13,14 @@ export default function Quote() {
     fetchData(setQuoteState);
   }, []);
 
-  if (quoteState.isLoading) {
-    return renderLoading();
-  }
-
-  if (quoteState.hasError) {
-    return renderError();
-  }
-
-  if (!quoteState.isLoading && !quoteState.hasError) {
-    return renderQuote(quoteState.body);
-  }
+  return (
+    <section className="quote">
+      {quoteState.isLoading && renderLoading()}
+      {quoteState.hasError && renderError()}
+      {
+        !quoteState.isLoading && !quoteState.hasError
+        && renderQuote(quoteState.body)
+      }
+    </section>
+  );
 }
