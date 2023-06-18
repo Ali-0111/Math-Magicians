@@ -20,11 +20,9 @@
 <!------------------------ PROJECT DESCRIPTION----------->
 
 # 📖 [Math-Magician] <a name="about-project"></a>
-> Objectives of this project are:
-- Providing (SPA) to work offline
-- Solve basic Mathematical calculations
-- Provide some quotes
+Math Magicians is a cutting-edge web application for palying with math developed using React, a powerful JavaScript library for building user interfaces. With its intuitive and responsive design, Math Magicians provides a seamless and immersive experience for students to explore and master mathematical concepts.
 
+## 🛠️ Built With
 ### Tech Stack <a name="tech-stack"></a>
 
 > HTML.
@@ -83,11 +81,11 @@
 
 > We have made use of a couple of features mainly:
 
-- **[REACT]**
-- **[LINTERS]**
-- **[JavaScript]**
-- **[ notably modules]**
-- **[ES6 features]**
+- I added the functionality for this app👍.
+- I used the react-router-dom to navigate into the routes of the app💯.
+- I used the basic css style for styling the components.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,30 +93,84 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> How to make use of this project.
+
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-> In order to run this project you need:
+In order to run this project you need:
 
-Internet Browser the recommend one is <a href="https://www.google.com/chrome/">Google Chrome.</a>
 
-### Install
+Example command:
 
-Install <a href="https://www.google.com/chrome/">Google Chrome.</a>
+```sh
+1.use a browser
+2.use cable internet
+```
+ 
 
 ### Setup
 
-After Installing Google Chrome set it as default browser.
+Clone this repository to your desired folder:
+
+
+Example commands:
+
+```sh
+  cd todo-list
+  git clone https://github.com/Ali-0111/Math-Magicians.git
+
+```
+
+
+### Install
+
+Install this project with:
+
+
+Example command:
+
+```sh
+  npm install
+```
+
 
 ### Usage
-<!----------------Please add the new link ------------------->
-To run the project, click [Soon](https://github.com/Ali-0111/)
+
+To run the project, execute the following command:
+
+
+Example command:
+
+```sh
+ npm run start
+```
+
+
+### Run tests
+
+To run tests, run the following command:
+
+
+Example command:
+
+```sh
+npx hint .
+npx eslint .
+```
+
+
+### Deployment
+
+You can deploy this project using:
+
+- Render.com
+- Netlify.com
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
